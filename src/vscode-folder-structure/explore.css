@@ -1,0 +1,46 @@
+.folder-container-show {
+    padding: 5px;
+    margin-left: 25px;
+    display: block;
+}
+.folder-container-hide {
+    padding: 5px;
+    margin-left: 25px;
+    display: none;
+}
+
+.folder-name {
+    display: flex;
+    margin-bottom: 10px;
+}
+.folder-name-span {
+    margin: 2px 23px 0px 16px;
+    font-size: 21px;
+    cursor: pointer;
+}
+.actions-btn {
+    background-color: rgb(63 63 84);
+    color: white;
+    border-radius: 6px;
+    margin: 2px;
+    margin-left: 10px;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.show-input {
+    padding: 10px;
+    display: block;
+}
+
+.hide-input {
+    display: none;
+}   
+
+.delete {
+    font-size: 15px;
+    margin-left: 10px;
+    color: red;
+    cursor: pointer;
+}
